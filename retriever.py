@@ -1,6 +1,6 @@
 from langchain.chains import RetrievalQA
-from src.llm import get_model
-from src.vector_store import store
+from llm import get_model
+from vector_store import store
 
 llm = get_model()
 

@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from src.retriever import knowledge_retriever
+from retriever import knowledge_retriever
 
 app = FastAPI()
 

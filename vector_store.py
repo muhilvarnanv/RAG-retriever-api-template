@@ -1,7 +1,7 @@
 from langchain.vectorstores.pgvector import PGVector
 from langchain.embeddings.vertexai import VertexAIEmbeddings
 
-from src.config import get_database_connection_url, get_collection_name
+from config import get_database_connection_url, get_collection_name
 
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko@001")
 
