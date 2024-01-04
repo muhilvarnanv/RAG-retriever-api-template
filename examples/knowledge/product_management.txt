@@ -18,7 +18,7 @@ Security measures, such as unique code generation and validation checks, are in 
 
 Performance Tracking:
 Utilize the analytics and reporting tools in the admin panel to track code performance. Monitor metrics like code usage, conversion rates, and revenue generated to gain insights into the effectiveness of promotion code campaigns.
-
+ls
 Stacking Multiple Promotion Codes:
 Our platform typically restricts the stacking of multiple promotion codes on a single purchase. Customers are usually allowed to use only one code per transaction to maintain fairness and prevent abuse.
 
