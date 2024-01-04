@@ -14,8 +14,8 @@ A template code to build RAG retriever API quickly.
 ## Setup 
 - pipenv install
 - source .env
-- python src/inject_data.py #for onetime of data into vector store
-- uvicorn src.main:app --reload
+- python inject_data.py #for onetime of data into vector store
+- uvicorn main:app --reload
 
 ## DB setup in local
  - install postgres.app - https://postgresapp.com/downloads.html
