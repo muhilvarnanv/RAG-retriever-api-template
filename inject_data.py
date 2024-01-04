@@ -10,3 +10,5 @@ def run():
     text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
     docs = text_splitter.split_documents(documents)
     store.add_documents(docs)
+
+run()

@@ -1,1 +1,29 @@
-text
+**Promotion Code Overview:**
+A promotion code, also known as a promo code or coupon code, is an alphanumeric code entered by customers during the checkout process to receive discounts or special offers. In our e-commerce platform, these codes trigger predefined promotions to incentivize purchases.
+
+**Creating a New Promotion Code:**
+To create a new promotion code, access the admin panel and navigate to the promotion code management section. Specify the discount type, set the value, define any restrictions, and generate the code. Share the code with customers through various channels.
+
+**Types of Promotions:**
+Our platform supports various promotions, including percentage-based discounts, fixed amount discounts, buy one get one free (BOGO), and more. Choose the type of promotion that aligns with your marketing strategy and business goals.
+
+**Setting Expiration Dates:**
+When creating a promotion code, set an expiration date to control the validity period. The code will automatically become inactive after the specified date, ensuring promotions do not extend beyond the intended timeframe.
+
+**Limiting Usage to Specific Products or Categories:**
+Our platform allows you to restrict the applicability of a promotion code to specific products or categories, enabling targeted promotions for particular items.
+
+**Preventing Misuse or Abuse:**
+Security measures, such as unique code generation and validation checks, are in place to prevent unauthorized use of promotion codes. Usage patterns are monitored and analyzed to detect and address potential misuse promptly.
+
+**Performance Tracking:**
+Utilize the analytics and reporting tools in the admin panel to track code performance. Monitor metrics like code usage, conversion rates, and revenue generated to gain insights into the effectiveness of promotion code campaigns.
+
+**Stacking Multiple Promotion Codes:**
+Our platform typically restricts the stacking of multiple promotion codes on a single purchase. Customers are usually allowed to use only one code per transaction to maintain fairness and prevent abuse.
+
+**Customizing for Customer Segments or Loyalty Levels:**
+Our platform offers flexibility in creating promotion codes tailored to specific customer segments or loyalty levels. This allows for targeted campaigns and rewards based on purchasing behavior or loyalty status.
+
+**Handling Forgotten Codes:**
+Unfortunately, promotion codes generally cannot be applied retroactively once an order is completed. Remind customers to enter the code during checkout. Exceptions or manual adjustments may be possible based on our customer support policies.

@@ -14,5 +14,5 @@ class RequestBody(BaseModel):
 def run_query(request_body: RequestBody):
     query = request_body.query
     return {
-     "answer": knowledge_retriever.run(query=query)
+     "answer": knowledge_retriever.run(query)
     }
